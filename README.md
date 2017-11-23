@@ -1,3 +1,3 @@
 # hello-world
 
-This is Jaspreet Kur.
+This is Jaspreet Kaur.
